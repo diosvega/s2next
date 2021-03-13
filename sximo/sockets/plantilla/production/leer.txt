@@ -1,0 +1,48 @@
+NOTE: http://ieeexplore.ieee.org/servlet/opac?punumber=4610933
+[9] IETF RFC 4648: "The Base16, Base32, and Base64 Data Encodings".
+[10] IETF RFC 2045: "Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies".
+[11] IETF RFC 3987:" Internationalized Resource Identifiers (IRIs)" .
+[12] IETF BCP 47: "Best Current Practices 47". Concatenation of IETF RFC 4646:" Tags for Identifying Languages" (2006) and IETF RFC 4647: "Matching of Language Tags" ( 2006).
+[13] IETF RFC 3588: "Diameter Base Protocol".
+[14] IETF RFC 6733: "Diameter Base Protocol".
+[15] 3GPP TS 23.682: " Digital cellular telecommunications system (Phase 2+); Universal Mobile Telecommunications System (UMTS); LTE; Architecture enhancements to facilitate communications with packet data networks and applications (3GPP TS 23.682 Release 11)".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

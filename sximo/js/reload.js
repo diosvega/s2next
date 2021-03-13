@@ -1,0 +1,7 @@
+function recarga() {
+    location.reload();
+}
+
+
+
+
